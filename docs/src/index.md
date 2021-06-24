@@ -6,4 +6,6 @@ CurrentModule = TestGithub
 
 Documentation for [TestGithub](https://github.com/HoBeZwe/TestGithub.jl).
 
-This is the Test.
+This is the Test. 
+
+It works.

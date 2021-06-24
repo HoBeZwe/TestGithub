@@ -6,7 +6,8 @@ DocMeta.setdocmeta!(TestGithub, :DocTestSetup, :(using TestGithub); recursive=tr
 makedocs(;
     modules=[TestGithub],
     authors="Bernd Hofmann <Bernd.Hofmann@tum.de> and contributors",
-    sitename="TestGithub.jl",
+    sitename="TestGithub",
+    repo="https://github.com/HoBeZwe/TestGithub/blob/master/LICENSE",
     format=Documenter.HTML(;
         prettyurls=get(ENV, "CI", "false") == "true",
         canonical="https://HoBeZwe.github.io/TestGithub.jl",
