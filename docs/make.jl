@@ -18,5 +18,5 @@ makedocs(;
 )
 
 deploydocs(;
-    repo="github.com/HoBeZwe/TestGithub.jl",
+    repo="github.com/HoBeZwe/TestGithub.jl.git",
 )
