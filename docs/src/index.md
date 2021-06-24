@@ -6,9 +6,4 @@ CurrentModule = TestGithub
 
 Documentation for [TestGithub](https://github.com/HoBeZwe/TestGithub.jl).
 
-```@index
-```
-
-```@autodocs
-Modules = [TestGithub]
-```
+This is the Test.
