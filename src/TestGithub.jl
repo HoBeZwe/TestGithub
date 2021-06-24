@@ -1,5 +1,11 @@
 module TestGithub
 
-# Write your package code here.
+using StaticArrays
+
+export linearComb
+
+function linearComb(a,b,c,d)
+    return c*a + d*b
+end
 
 end

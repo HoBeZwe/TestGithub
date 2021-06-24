@@ -1,6 +1,6 @@
 using TestGithub
 using Test
 
-@testset "TestGithub.jl" begin
-    # Write your tests here.
+@testset "TestSomething" begin
+    @test linearComb(1,2,3,0) == 3
 end
