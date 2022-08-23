@@ -1,9 +1,9 @@
-cff-version: 1.1.0
+cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Hofmann
-    given-names: Bernd
-    orcid: https://orcid.org/0000-0003-1435-6203
-title: HoBeZwe/SphericalScattering: v.0.1.1
+- family-names: Hofmann
+  given-names: Bernd
+  orcid: https://orcid.org/0000-0003-1435-6203
+title: HoBeZwe/TestGitHub: v.0.1.1
 version: v.0.1.1
 date-released: 2022-08-23
