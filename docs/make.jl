@@ -7,7 +7,7 @@ makedocs(;
     modules=[TestGithub],
     authors="Bernd Hofmann <Bernd.Hofmann@tum.de> and contributors",
     sitename="TestGithub",
-    repo="https://github.com/HoBeZwe/TestGithub/blob/master/LICENSE",
+    repo="https://github.com/HoBeZwe/TestGithub/tree/master",
     format=Documenter.HTML(;
         prettyurls=get(ENV, "CI", "false") == "true",
         canonical="https://HoBeZwe.github.io/TestGithub.jl",
