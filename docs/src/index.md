@@ -9,3 +9,10 @@ Documentation for [TestGithub](https://github.com/HoBeZwe/TestGithub.jl).
 This is the Test. 
 
 It works.
+
+```@raw html
+<div align="center">
+<img src="../assets/PECsphere.svg" width="300"/>
+</div>
+<br/>
+```
